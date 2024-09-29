@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # NakanoMiku
-A regular everyday normal computer science major student struggling with finding internship.  
+A regular everyday normal computer science major student struggling with graduate applications.  
 
-Stop play Maimai🤔..?
+Stop playing Maimai🤔..?
